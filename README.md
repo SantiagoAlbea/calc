@@ -1,4 +1,5 @@
-#Integrantes del grupo
+# Integrantes del grupo
+Albea, Santiago
 Comelles, Ignacio
 
 # Calc
