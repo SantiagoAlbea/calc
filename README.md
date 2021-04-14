@@ -1,3 +1,6 @@
+#Integrantes del grupo
+Comelles, Ignacio
+
 # Calc
 
 Calculadora con funciones simples.
