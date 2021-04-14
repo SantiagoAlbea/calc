@@ -1,6 +1,7 @@
 # Integrantes del grupo
-Albea, Santiago /n
-Comelles, Ignacio
+Albea, Santiago  
+Comelles, Ignacio  
+Morello, Franco  
 
 # Calc
 
